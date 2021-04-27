@@ -5,10 +5,13 @@
 ############ A- Project Details ####################
 
 1- I used a youtube toutrial to implement the python code for the server.py and client.py:
+
 https://www.youtube.com/watch?v=iXL-akeLTA4
 
 2- I made a Dockerfile for each of the server and client and build an image for each and uploaded them to DockerHub
-Link to DockerHub That Contain the images : https://hub.docker.com/repository/docker/mohamed1195/warm_up_assignment/general
+Link to DockerHub That Contain the images : 
+
+https://hub.docker.com/repository/docker/mohamed1195/warm_up_assignment/general
 
 ############ B- Instruction to run the app #########
 
