@@ -14,7 +14,7 @@ Link to DockerHub That Contain the images :
 
 https://hub.docker.com/repository/docker/mohamed1195/warm_up_assignment/general
 
-B- Instruction to run the app
+B- Instruction to deploy the system
 --------------------------------------
 
 1- Download docker-compose.yml file
